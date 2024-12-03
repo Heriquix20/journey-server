@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS links (
+    id INTEGER PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    url VARCHAR(255) NOT NULL,
+    trip_id INTEGER,
+    FOREIGN KEY (trip_id) REFERENCES trips(id) ON DELETE CASCADE
+);
