@@ -1,6 +1,6 @@
 # Journey - Planejador de Viagens
 
-Bem-vindo ao *Travel Planner*, uma aplicação projetada para ajudar você a organizar suas viagens com facilidade! Com este planejador, você pode gerenciar suas aventuras, salvar links importantes e registrar atividades que deseja realizar durante sua viagem.
+Bem-vindo ao *Journey*, uma aplicação projetada para ajudar você a organizar suas viagens com facilidade! Com este planejador, você pode gerenciar suas aventuras, salvar links importantes e registrar atividades que deseja realizar durante sua viagem.
 
 ---
 
